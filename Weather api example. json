@@ -1,0 +1,20 @@
+{
+  "location": {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "local_time": "2026-07-26T14:30:00+06:00"
+  },
+  "current": {
+    "temperature_c": 31.8,
+    "humidity": 78,
+    "condition": "Partly Cloudy"
+  },
+  "units": {
+    "temperature": "Celsius",
+    "humidity": "Percent"
+  },
+  "status": "success",
+  "timestamp": "2026-07-26T08:30:00Z"
+}
